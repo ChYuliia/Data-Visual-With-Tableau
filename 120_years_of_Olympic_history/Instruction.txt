@@ -1,0 +1,18 @@
+In this module, you will take that data set and create your own story about the Olympic history.
+
+Here's how to complete this assignment: 
+
+    View the Getting Started with Kaggle (2:11) video. 
+    Create an account and log in to Kaggle.
+    Download the two files for Olympic data: 
+        120 years of Olympic history: athletes and results
+    Use Prep Builder to transform the data (if needed).
+    Create a story based on the Olympics dataset.  For example - the United States, Russia, and China rivalry in Gymnastics during the Summer Olympics; Alpine Skiing during the Winter Olympics.  You can create your own story based on the data.
+    Create appropriate visualizations (minimum 6) to support your story.
+    Create Dashboards (minimum 3) based on the Tableau Sheets to support your story. 
+    Create your own story using the Tableau story. (ex. title/annotations/highlighting data of interest)
+    Save the Tableau file as Tableau Package Worksheet (.twbx) with data.
+
+https://www.youtube.com/watch?v=O1P4r0Iy55U
+https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+https://help.tableau.com/current/pro/desktop/en-us/save_savework_packagedworkbooks.htm

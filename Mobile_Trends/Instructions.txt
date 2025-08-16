@@ -1,0 +1,18 @@
+Mobile Trends in Data are a unique piece all on their own. In this assignment, we will examine some of them. 
+1.	First, access the Tableau repository of resources.[7.10] (https://public.tableau.com/en-us/s/resources)
+2.	Scroll to the Technology Section. 
+3.	 Download the Mobile OS Usage dataset.  (Scroll down to Mobile OS Usage Dataset under technology. CSV on the far right)
+4.	Cleanse data as appropriate.
+5.	Identify and create visualizations of Mobile OS trends for the top 3 OSs per each year. 
+6.	Apply best practices when choosing fonts.
+7.	Upload the visualizations here.
+8.	Refer to the Tableau Cheat Sheet if needed. 
+Remember that this is not so much about the data and outcomes but about the way that you design the visualizations. You are being assessed on the use of fonts, color, typography, and design as the primary concentrations in this assignment! 
+Save as PDF and upload to the assignment.
+Make sure Date is parsed correctly:
+•	Click the data type icon → set Date field to Date.
+•	If Tableau Prep struggles to parse it (e.g., sees text instead of date), add a Calculated Field:
+DATE(DATEPARSE("M/d/yyyy", [Date]))
+
+For Usage, ensure it’s numeric:
+•	Click the data type icon → set Usage to Number (Decimal).

@@ -1,0 +1,23 @@
+dataset source: https://ourworldindata.org/grapher/births-and-deaths-projected-to-2100
+
+In this assignment, let's consider our own world. Consequently, our data set comes from a site with that in mind!
+
+You are going to use this dataset manifest to develop a dashboard on a particular area of interest using the principles of interactive visualization you learned in this topic (including previous learning practices).
+
+Note: This is a very open-ended assignment and you will be assessed accordingly. 
+
+Here's what you do: 
+
+    Access the Our World in Data site. (https://ourworldindata.org/)
+    Scroll to the research areas and find a data set. 
+    Download and analyze the data set.
+    Then, create an interactive data visualization using the principles learned in this topic.
+        You will notice this is effectively the only requirement because there are so many possibilities. 
+    Save the Tableau file as Tableau Package Worksheet (.twbx) with data.
+
+Review this Example: https://ourworldindata.org/malaria
+
+Health | Malaria | select data tab on chart | Download the CSV for analysis. - (global-malaria-deaths-by-world-region.csv)
+
+You are expected to submit original work according to Sinclair College Honor Codes; this includes working independently on the submission (with no external assistance) and no group or sharing efforts.
+

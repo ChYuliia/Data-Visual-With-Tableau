@@ -1,0 +1,18 @@
+Process
+
+       1 Login to Data.World and get to the dataset. (https://data.world/nps/yellowstone-np)
+
+       2 Download files for Yellowstone visitors.
+
+       3 Review the glossary of the data. (https://data.world/nps/glossary)
+
+       4 Optional: Check out the various source data. (https://irma.nps.gov/Stats/)
+
+       5 Build a dashboard in Tableau (combine data sources if you want).
+
+       6 Create at least 3 visualizations, using previous learning, focusing on the principles of color theory (new learning).
+
+                Avoid red/green color palette.
+                Use complementary colors - see the color wheel
+
+       7 Upload the dashboard to assignment, Saved to PDF.

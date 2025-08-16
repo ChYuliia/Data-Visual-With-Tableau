@@ -1,0 +1,19 @@
+Create a visualization to reflect the real-world data of Halloween Trick-or-Treaters.
+
+    Read “Shaffer 4c – Clean Examples”
+    Open the data with Excel: Halloween data for Excel 2016
+    Clean the data, following basic guidelines to help "Clean” the data (if the data needs cleaned)
+    Save the data
+    Open Tableau
+    Import the newly "cleaned" and saved data
+    Prepare the Data Visualization
+
+Note: Use the included files if needed:
+
+Halloween data for Tableau 2016
+
+Halloween Data Image (https://elearn.sinclair.edu/content/enforced/407980-347945/assignmentFiles/topic05/HalloweenDataImage.png)
+
+    Append some sort of external data, like weather (optional)
+    Source webpage for the original assignment: Halloween Data Set Published for Data Visualization (https://www.dataplusscience.com/HalloweenData.html)
+    Save the Tableau file as Tableau Package Worksheet (.twbx) with data. (https://help.tableau.com/current/pro/desktop/en-us/save_savework_packagedworkbooks.htm)

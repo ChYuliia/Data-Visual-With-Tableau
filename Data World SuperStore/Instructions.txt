@@ -1,0 +1,34 @@
+We will be using the Superstore data set -  Create an ID for Data.World by:
+
+    Clicking the Superstore data set link above (https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls?_gl=1*yvjuf9*_ga*MTUzMDA3Mzc0NS4xNzQ3NzAwNDIw*_ga_8YLN0SNXVS*czE3NTAwMzM1MDckbzE0JGcxJHQxNzUwMDM0MDkwJGo1NyRsMCRoMA..*_gcl_au*ODcwMTI2MzEuMTc0NzcwMDQyMC4xOTQzODE2NzY0LjE3NDg1NjE5ODYuMTc0ODU2MTk4OA..)
+    Click Join in the upper right corner of the window
+    Fill in the information, you can use any email address that you have access to
+    Click Continue to join
+    Once you have joined Data.World you will have access to the Superstore data set
+
+Use Case:
+
+It is January of 2016 and the CEO of Superstore is looking to bolster business for the upcoming year. The finance team has noticed that there were some profit problems for particular inventory categories during 2015. You have been tasked with figuring out which item(s) have had profit problems multiple years in a row (both net and year over year), where the problems are happening, and why. Visualize this data so that multiple teams (leadership, sales, finance, marketing, and manufacturers) can view the results and understand the data quickly.
+Your Task:
+
+    Connect to and analyze Superstore’s data sets from 2012-2015
+    Create a variety of views to explore the data while calling out insights along the way
+    Analyze business profits
+    Discover where and why profit loss is happening
+    Summarize the data on a visual dashboard to submit to the company
+    Save your work as a .twbx file to submit. 
+    Refer to the Tableau Cheat Sheet if needed. 
+
+You Will Learn:
+
+    How to connect to data on data.world using the web data connector
+    Join tables in Tableau
+    General Tableau vocabulary and tips
+    Data Visualization
+    Run Table Calculations
+    Highlighters, Filters, Formatting, Hierarchies, Aggregations
+    Geocoding (mapping data)
+    How to create various visuals using Tableau
+    General data analytical skills
+    Dashboarding
+    Publishing
